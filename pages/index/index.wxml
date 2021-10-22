@@ -8,6 +8,7 @@
       <text bindtap="copyEmail" class="mt">电子邮件：i@xiu.buzz</text>
       <text class="mt">电子竞技从业者</text>
       <text bindtap="copyBlog" class="mt">个人博客：liuxiu233.com</text>
+      <button style="background-color:transparent; color: white;" bindtap="goLinks">社交网站</button>
     </block>
   </view>
 

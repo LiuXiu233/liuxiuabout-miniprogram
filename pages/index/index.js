@@ -16,4 +16,9 @@ Page({
       data: 'https://liuxiu233.com',
     });
   },
+  goLinks(){
+    wx.navigateTo({
+      url: 'links.wxml',
+    })
+  }
 })

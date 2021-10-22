@@ -1,4 +1,4 @@
-// pages/links/links.js
+// pages/index/links.js
 Page({
 
   /**
